@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/104/trunk/fetchserver
+END
+index.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/93/trunk/fetchserver/index.yaml
+END
+accesslog.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/73/trunk/fetchserver/accesslog.py
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/55/trunk/fetchserver/admin.py
+END
+fetch.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/103/trunk/fetchserver/fetch.py
+END
+app.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/104/trunk/fetchserver/app.yaml
+END
